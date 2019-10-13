@@ -12,7 +12,7 @@
  3. It does not implement undo
  
  
- Author: Dale Reed                 ______18______
+ Author: Tejaswi Reddy                 ______18______
  CS 141 Program #6: Wumpus        /      |       \
  TA: Elliott Ness, T 6:00 AM     /      _9__      \
  April 3, 2016                  /      /    \      \
@@ -213,7 +213,7 @@ void checkForHazards(GameInfoStruct &, int &, int[][3]);
 void displayIdentifyingInformationAndInstructions()
 {
     cout << "                                                        \n"
-    << "Author: Dale Reed                 ______18______             \n"
+    << "Author: Tejaswi Reddy                 ______18______             \n"
     << "CS 141 Program #6: Wumpus        /      |       \\           \n"
     << "TA: Elliott Ness, T 6:00 AM     /      _9__      \\          \n"
     << "April 3, 2016                  /      /    \\      \\        \n"
